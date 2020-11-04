@@ -1,0 +1,9 @@
+@import "exo.css";
+
+.hello {
+    margin-top: 170px;
+    padding: 0 15px;
+    font-size: 40px;
+    font-family: 'Exo2', sans-serif;
+    color: white;
+}
